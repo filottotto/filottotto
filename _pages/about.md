@@ -17,12 +17,4 @@ title: Orari
 
 ## Come raggiungerci
 
-<iframe
-  width="600"
-  height="450"
-  style="border:0"
-  loading="lazy"
-  allowfullscreen
-  referrerpolicy="no-referrer-when-downgrade"
-  src="https://g.co/kgs/hyEMZGk">
-</iframe>
+[Google maps](https://g.co/kgs/hyEMZGk)
