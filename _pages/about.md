@@ -5,7 +5,7 @@ title: Orari
 ---
 
 # Orari
-### Invernale (dal 1/9 al 30/6)
+### Invernale (dal 1/9 al 31/6)
 - Lunedì: 12-19
 - Martedì: 11-21
 - Mercoledì: 11-24
