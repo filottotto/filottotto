@@ -1,3 +1,3 @@
-## Pagina web del circolo bocciofila di Fabiano
+Pagina web del circolo bocciofila di Fabiano
 
-*Sito in costruzione*
+**Sito in costruzione**
